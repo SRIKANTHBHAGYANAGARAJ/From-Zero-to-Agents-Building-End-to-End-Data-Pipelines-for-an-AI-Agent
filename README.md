@@ -16,9 +16,7 @@
   <br/><br/>
   <img alt="Products" src="https://github.com/user-attachments/assets/f99ec63f-7973-4f5c-baf1-bb5642e7c4fb" width="45%" />
   <img alt="Campaign Metrics" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" width="45%" />
-  <br/><br/>
-  <img alt="Mapping the Marketing Intelligence Pipeline" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE" width="90%" />
-  <br/>
+  
   <b>Mapping the Marketing Intelligence Pipeline: From Raw Data to Semantic Insights
   <img width="2752" height="1536" alt="Mapping_the_Marketing_Intelligence_Pipeline" src="https://github.com/user-attachments/assets/d000169c-7085-4170-ae3e-368aed5bb553" /></b>
 </div>
