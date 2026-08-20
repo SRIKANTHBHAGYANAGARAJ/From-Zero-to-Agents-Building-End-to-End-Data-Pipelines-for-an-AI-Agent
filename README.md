@@ -1,3 +1,4 @@
+![Uploading Mapping_the_Marketing_Intelligence_Pipeline.png…]()
 # Distribution Insights — ACME IM
 
 ## 🖼️ Distribution Insights — ACME IM Gallery
