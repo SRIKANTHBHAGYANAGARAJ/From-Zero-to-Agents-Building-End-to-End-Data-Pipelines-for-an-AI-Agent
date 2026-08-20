@@ -42,12 +42,7 @@
       <br /><b>Campaign Metrics</b>
     </td>
 
-    <div align="center">
-  <img src="ZeroToAgent.webp" alt="From Zero to Agents" width="500"/>
-  <br/><br/>
-  <img src="Mapping_the_Marketing_Intelligence_Pipeline.png" alt="Mapping the Marketing Intelligence Pipeline" width="800"/>
-</div>
-    <td align="center">
+   
       <!-- Empty cell for alignment -->
     </td>
   </tr>
