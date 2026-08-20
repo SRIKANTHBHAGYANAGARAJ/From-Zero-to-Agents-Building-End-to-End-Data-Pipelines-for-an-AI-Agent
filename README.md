@@ -1,4 +1,4 @@
-![Uploading Mapping_the_Marketing_Intelligence_Pipeline.png…]()
+
 # Distribution Insights — ACME IM
 
 ## 🖼️ Distribution Insights — ACME IM Gallery
@@ -15,6 +15,10 @@
   <br/><br/>
   <img alt="Products" src="https://github.com/user-attachments/assets/f99ec63f-7973-4f5c-baf1-bb5642e7c4fb" width="45%" />
   <img alt="Campaign Metrics" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" width="45%" />
+  <br/><br/>
+  <img alt="Mapping the Marketing Intelligence Pipeline" src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE" width="90%" />
+  <br/>
+  <b>Mapping the Marketing Intelligence Pipeline: From Raw Data to Semantic Insights</b>
 </div>
 End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
 
