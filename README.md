@@ -2,50 +2,19 @@
 
 ## 🖼️ Distribution Insights — ACME IM Gallery
 
-<table>
-  <tr>
-    <td align="center">
-      <img width="150" height="150" alt="ZeroToAgent" src="https://github.com/user-attachments/assets/9276cbb2-4bba-43db-9435-62196fd85349" />
-      <br /><b>Zero to Agent</b>
-    </td>
-    <td align="center">
-      <img width="150" height="150" alt="ENRICHED_MARKETING_INTELLIGENCE" src="https://github.com/user-attachments/assets/cc02eab1-0057-4575-ac34-a6f3ec54a7a2" />
-      <br /><b>Marketing Intelligence</b>
-    </td>
-    <td align="center">
-      <img width="150" height="150" alt="SUPPORT_CASES" src="https://github.com/user-attachments/assets/ed6592e1-f29b-49d9-a5ea-513f9df9982f" />
-      <br /><b>Support Cases</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="150" height="150" alt="SOCIAL_MEDIA" src="https://github.com/user-attachments/assets/d861b5fe-732a-4d36-936e-1a90b8d89a1e" />
-      <br /><b>Social Media</b>
-    </td>
-    <td align="center">
-      <img width="150" height="150" alt="SEMANTIC_VIEW" src="https://github.com/user-attachments/assets/1407593c-d569-485c-86f2-c2aaf16b1f26" />
-      <br /><b>Semantic View</b>
-    </td>
-    <td align="center">
-      <img width="150" height="150" alt="SALES" src="https://github.com/user-attachments/assets/0f4b0fce-26d5-4c9e-b933-3f50e4ef5db9" />
-      <br /><b>Sales</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="150" height="150" alt="PRODUCTS" src="https://github.com/user-attachments/assets/f99ec63f-7973-4f5c-baf1-bb5642e7c4fb" />
-      <br /><b>Products</b>
-    </td>
-    <td align="center">
-      <img width="150" height="150" alt="MARKETING_CAMPAIGN_METRICS" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" />
-      <br /><b>Campaign Metrics</b>
-    </td>
-    <td align="center">
-      <!-- Empty cell for balance, or add another image here -->
-      <br /><br />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="ZeroToAgent" src="https://github.com/user-attachments/assets/9276cbb2-4bba-43db-9435-62196fd85349" width="45%" />
+  <img alt="Marketing Intelligence" src="https://github.com/user-attachments/assets/cc02eab1-0057-4575-ac34-a6f3ec54a7a2" width="45%" />
+  <br/><br/>
+  <img alt="Support Cases" src="https://github.com/user-attachments/assets/ed6592e1-f29b-49d9-a5ea-513f9df9982f" width="45%" />
+  <img alt="Social Media" src="https://github.com/user-attachments/assets/d861b5fe-732a-4d36-936e-1a90b8d89a1e" width="45%" />
+  <br/><br/>
+  <img alt="Semantic View" src="https://github.com/user-attachments/assets/1407593c-d569-485c-86f2-c2aaf16b1f26" width="45%" />
+  <img alt="Sales" src="https://github.com/user-attachments/assets/0f4b0fce-26d5-4c9e-b933-3f50e4ef5db9" width="45%" />
+  <br/><br/>
+  <img alt="Products" src="https://github.com/user-attachments/assets/f99ec63f-7973-4f5c-baf1-bb5642e7c4fb" width="45%" />
+  <img alt="Campaign Metrics" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" width="45%" />
+</div>
 End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
 
 ---
