@@ -40,11 +40,7 @@
     <td align="center">
       <img width="150" height="150" alt="MARKETING_CAMPAIGN_METRICS" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" />
       <br /><b>Campaign Metrics</b>
-    </td>
-
-   
-      <!-- Empty cell for alignment -->
-    </td>
+    
   </tr>
 </table>
 
