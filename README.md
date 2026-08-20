@@ -1,6 +1,12 @@
 
 
 
+
+
+
+
+
+
 # Distribution Insights — ACME IM
 
 ## 🖼️ Distribution Insights — ACME IM Gallery
@@ -36,14 +42,6 @@
 </div>
 
 <br/>
-
-### Video 2: [Add Your Second Video Title Here]
-
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/YOUR_SECOND_VIDEO_ID_HERE" controls width="80%"></video>
-  <br/>
-  <i>[Add your video description here]</i>
-</div>
 
 ---
 
