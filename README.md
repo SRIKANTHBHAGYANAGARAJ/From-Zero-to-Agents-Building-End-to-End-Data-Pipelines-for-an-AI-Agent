@@ -1,6 +1,9 @@
 # Distribution Insights — ACME IM
 <img width="512" height="512" alt="ZeroToAgent" src="https://github.com/user-attachments/assets/9276cbb2-4bba-43db-9435-62196fd85349" />
 
+<img width="958" height="500" alt="ENRICHED_MARKETING_INTELLIGENCE" src="https://github.com/user-attachments/assets/cc02eab1-0057-4575-ac34-a6f3ec54a7a2" />
+
+
 End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
 
 ---
