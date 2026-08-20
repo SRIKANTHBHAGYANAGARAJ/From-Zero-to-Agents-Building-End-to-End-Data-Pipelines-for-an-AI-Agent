@@ -1,3 +1,11 @@
+
+
+<img width="1277" height="380" alt="SUPPORT_CASES" src="https://github.com/user-attachments/assets/ed6592e1-f29b-49d9-a5ea-513f9df9982f" />
+<img width="1282" height="482" alt="SOCIAL_MEDIA" src="https://github.com/user-attachments/assets/d861b5fe-732a-4d36-936e-1a90b8d89a1e" />
+<img width="978" height="472" alt="SEMANTIC_VIEW" src="https://github.com/user-attachments/assets/1407593c-d569-485c-86f2-c2aaf16b1f26" />
+<img width="1217" height="436" alt="SALES" src="https://github.com/user-attachments/assets/0f4b0fce-26d5-4c9e-b933-3f50e4ef5db9" />
+<img width="1287" height="447" alt="PRODUCTS" src="https://github.com/user-attachments/assets/f99ec63f-7973-4f5c-baf1-bb5642e7c4fb" />
+<img width="1200" height="448" alt="MARKETING_CAMPAIGN_METRICS" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" />
 # Distribution Insights — ACME IM
 <img width="512" height="512" alt="ZeroToAgent" src="https://github.com/user-attachments/assets/9276cbb2-4bba-43db-9435-62196fd85349" />
 
