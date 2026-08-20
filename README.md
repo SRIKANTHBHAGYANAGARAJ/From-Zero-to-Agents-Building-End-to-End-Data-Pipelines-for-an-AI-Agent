@@ -1,5 +1,3 @@
-[Uploading Architecting_the_Digital_Nervous_System.pptx…]()
-[Uploading Architecting_the_Digital_Nervous_System.pptx…]()
 # Distribution Insights — ACME IM
 
 ## 🖼️ Distribution Insights — ACME IM Gallery
@@ -38,8 +36,45 @@
 
 ---
 
-End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
+## 📚 Documentation & Resources
 
+### 📄 Presentation Files
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/user-attachments/assets/YOUR_PDF_ID_HERE">
+          <img src="https://img.shields.io/badge/📄-View_PDF-FF6B6B?style=for-the-badge" alt="View PDF" />
+        </a>
+        <br/>
+        <b>Architecting the Digital Nervous System</b>
+        <br/>
+        <i>PDF Document</i>
+      </td>
+      <td align="center">
+        <a href="https://github.com/user-attachments/assets/YOUR_PPT_ID_HERE">
+          <img src="https://img.shields.io/badge/📊-View_PPT-4ECDC4?style=for-the-badge" alt="View PPT" />
+        </a>
+        <br/>
+        <b>Architecting the Digital Nervous System</b>
+        <br/>
+        <i>PowerPoint Presentation</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📥 Download Options
+
+| File | Description | Download |
+|------|-------------|----------|
+| **Architecting_the_Digital_Nervous_System.pdf** | Complete PDF document with architecture overview | [📥 Download](https://github.com/user-attachments/assets/YOUR_PDF_ID_HERE) |
+| **Architecting_the_Digital_Nervous_System.pptx** | PowerPoint presentation with visual diagrams | [📥 Download](https://github.com/user-attachments/assets/YOUR_PPT_ID_HERE) |
+
+---
+
+End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
 
 ---
 
