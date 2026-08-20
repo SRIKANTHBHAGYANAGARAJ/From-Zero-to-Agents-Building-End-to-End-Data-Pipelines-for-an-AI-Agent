@@ -1,9 +1,3 @@
-
-
-https://github.com/user-attachments/assets/debd926a-2565-424e-8f87-8856405e1cce
-
-
-
 # Distribution Insights — ACME IM
 
 ## 🖼️ Distribution Insights — ACME IM Gallery
@@ -20,15 +14,23 @@ https://github.com/user-attachments/assets/debd926a-2565-424e-8f87-8856405e1cce
   <br/><br/>
   <img alt="Products" src="https://github.com/user-attachments/assets/f99ec63f-7973-4f5c-baf1-bb5642e7c4fb" width="45%" />
   <img alt="Campaign Metrics" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" width="45%" />
-  
-  <b>Mapping the Marketing Intelligence Pipeline: From Raw Data to Semantic Insights
-  <img width="2752" height="1536" alt="Mapping_the_Marketing_Intelligence_Pipeline" src="https://github.com/user-attachments/assets/d000169c-7085-4170-ae3e-368aed5bb553" /></b>
+  <br/><br/>
+  <img alt="Mapping the Marketing Intelligence Pipeline" src="https://github.com/user-attachments/assets/d000169c-7085-4170-ae3e-368aed5bb553" width="90%" />
+  <br/>
+  <b>Mapping the Marketing Intelligence Pipeline: From Raw Data to Semantic Insights</b>
 </div>
 
+---
+
+## 🎥 Demo Video
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/debd926a-2565-424e-8f87-8856405e1cce" controls width="80%"></video>
+</div>
+
+---
 
 End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
-
-https://github.com/user-attachments/assets/debd926a-2565-424e-8f87-8856405e1cce
 
 
 ---
