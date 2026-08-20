@@ -41,6 +41,12 @@
       <img width="150" height="150" alt="MARKETING_CAMPAIGN_METRICS" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" />
       <br /><b>Campaign Metrics</b>
     </td>
+
+    <div align="center">
+  <img src="ZeroToAgent.webp" alt="From Zero to Agents" width="500"/>
+  <br/><br/>
+  <img src="Mapping_the_Marketing_Intelligence_Pipeline.png" alt="Mapping the Marketing Intelligence Pipeline" width="800"/>
+</div>
     <td align="center">
       <!-- Empty cell for alignment -->
     </td>
