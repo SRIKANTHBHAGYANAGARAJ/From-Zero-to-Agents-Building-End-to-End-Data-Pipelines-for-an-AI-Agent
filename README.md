@@ -1,6 +1,5 @@
-
-
 # Distribution Insights — ACME IM
+
 ## 🖼️ Distribution Insights — ACME IM Gallery
 
 <table>
@@ -40,10 +39,13 @@
     <td align="center">
       <img width="150" height="150" alt="MARKETING_CAMPAIGN_METRICS" src="https://github.com/user-attachments/assets/f03565da-8dd8-4d28-ba71-6c32a3f3f0d3" />
       <br /><b>Campaign Metrics</b>
-    
+    </td>
+    <td align="center">
+      <!-- Empty cell for balance, or add another image here -->
+      <br /><br />
+    </td>
   </tr>
 </table>
-
 End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
 
 ---
