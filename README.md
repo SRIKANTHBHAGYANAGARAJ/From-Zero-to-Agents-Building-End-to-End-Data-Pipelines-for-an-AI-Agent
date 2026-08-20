@@ -1,8 +1,31 @@
 # Distribution Insights — ACME IM
 
 <div align="center">
-  <img src="ZeroToAgent.webp" alt="From Zero to Agents" width="600"/>
+  <img src="ZeroToAgent.webp" alt="From Zero to Agents" width="500"/>
 </div>
+
+End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
+
+---
+
+## Quick Start
+
+```bash
+# 1. Clone and enter project
+cd snowflake-distribution-insights-demo
+
+# 2. Build all infrastructure (schemas, tables, Dynamic Tables, agent, alerts)
+./manage.sh build
+
+# 3. Upload semantic view YAML to stage (required for Cortex Analyst)
+snow stage copy scripts/02_semantic_view.yaml \
+  @ANALYTICS_DEV_DB.DISTRIBUTION.AGENT_STAGE/ --connection your_connection --overwrite
+
+# 4. Validate everything is working
+./manage.sh test
+
+# 5. Deploy Streamlit dashboard to Snowflake
+./manage.sh deploy
 
 End-to-end Snowflake AI demo covering Salesforce Zero-Copy integration, AI pipeline management, Cortex observability, and self-service analytics via Cortex Analyst.
 
